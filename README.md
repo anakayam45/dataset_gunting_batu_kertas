@@ -1,5 +1,8 @@
 # dataset_gunting_batu_kertas
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anakayam45/dataset_gunting_batu_kertas/blob/main/Klasifikasi_Gambar_Gunting_Batu_Kertas.ipynb)
+
+
 dataset terdiri gambar dengan 3 kategori
 
 - 211 gambar gunting
